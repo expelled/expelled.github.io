@@ -1,3 +1,8 @@
 = Demo !
 
+:hp-tags: HubPress, Blog, Open Source,
+:hp-image: a-cover-image.jpg
+:hp-alt-title: My English Title
+
+
 Welcome, you are in *HubPress*
