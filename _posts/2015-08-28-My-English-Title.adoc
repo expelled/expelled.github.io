@@ -1,7 +1,6 @@
 = Demo !
 
-:hp-tags: HubPress, Blog, Open Source,
-:hp-image: a-cover-image.jpg
+:hp-tags: HubPress, Blog, Open Source
 :hp-alt-title: My English Title
 
 
